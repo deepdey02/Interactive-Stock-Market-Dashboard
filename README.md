@@ -1,4 +1,4 @@
-# Interactive-Stock-Market-Dashboard
+# Interactive-Stock-Market-Dashboard-Tableau
 TABLEAU PROJECT: Interactive Stock Market Dashboard for 6 well-known companies stock price 
 
 Created an interactive tableau stock market dashboard from scratch.I have used Pandas to manipulate our data and create new columns like the moving average and percent change which are used for comparaison in order to get the csv files that we will use to create the dashboard.
